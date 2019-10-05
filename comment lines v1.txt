@@ -1,0 +1,23 @@
+uncomment line 66 to test double data type of hastable
+uncomment line 68 to test Integer data type of hastable
+uncomment line 70 to test String data type of hastable
+
+uncomment line 74 to test double data type of binarysearchtree
+uncomment line 76 to test Integer data type of binarysearchtree
+uncomment line 78 to test String data type of binarysearchtree
+
+uncomment line 82 to test double data type of splaytree
+uncomment line 84 to test Integer data type of splaytree
+uncomment line 86 to test String data type of splaytree
+
+uncomment line 143 test double data type of redblacktree in redBlackTree.java File
+uncomment line 141 to test Integer data type of redblacktree redBlackTree.java File
+uncomment line 139 to test String data type of redblacktree redBlackTree.java File
+
+uncomment line 83 to test double data type of skiplist in SkipList.java File
+uncomment line 81 to test Integer data type of splaytree in SkipList.java File
+uncomment line 79 to test String data type of splaytree in SkipList.java File
+
+
+
+

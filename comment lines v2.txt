@@ -1,0 +1,17 @@
+uncomment line 64 to test double data type of hastable in MyMainV2.java
+uncomment line 66 to test Integer data type of hastable in MyMainV2.java
+uncomment line 68 to test String data type of hastable in MyMainV2.java
+
+uncomment line 72 to test double data type of binarysearchtree in MyMainV2.java
+uncomment line 74 to test Integer data type of binarysearchtree in MyMainV2.java
+uncomment line 76 to test String data type of binarysearchtree in MyMainV2.java
+
+uncomment line 80 to test double data type of splaytree in MyMainV2.java
+uncomment line 82 to test Integer data type of splaytree in MyMainV2.java
+uncomment line 84 to test String data type of splaytree in MyMainV2.java
+
+uncomment line 145 test double data type of redblacktree in redBlackTreeHeight.java File
+uncomment line 143 to test Integer data type of redblacktree redBlackTreeHeihght.java File
+uncomment line 141 to test String data type of redblacktree redBlackTreeHeight.java File
+
+
